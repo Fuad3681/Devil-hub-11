@@ -201,3 +201,6 @@ Tab3Section:NewButton("Keyboard gui","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
+Tab3Section:NewButton("Mouse Cursor","No description",function()
+loadstring(game:HttpGet(('https://pastefy.ga/V75mqzaz/raw'),true))()
+end)
