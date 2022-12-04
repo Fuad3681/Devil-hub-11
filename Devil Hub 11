@@ -205,7 +205,3 @@ end)
 Tab3Section:NewButton("Snake fe","No description",function()
 loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
 end)
-
-Tab1Section:NewButton("doors but bad","No description",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0doorsbutbad", true))()
-end)
