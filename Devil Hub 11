@@ -196,10 +196,10 @@ Tab1Section:NewButton("Longest Answer Wins (No key)","No description",function()
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/UnknownStraz/Longest-Answer-Wins/main/Script"), true))()
 end)
 
-Tab1Section:NewButton("Keyboard gui","No description",function()
+Tab3Section:NewButton("Keyboard gui","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
-Tab1Section:NewButton("Snake fe","No description",function()
+Tab3Section:NewButton("Snake fe","No description",function()
 loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
 end)
