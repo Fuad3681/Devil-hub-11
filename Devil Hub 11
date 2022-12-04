@@ -10,6 +10,8 @@ local Tab2 = window:NewTab("Credits")
 local Tab2Section = Tab2:NewSection("Made By FuadNotFounded")
 local Tab2Section = Tab2:NewSection("Credits to All")
 local Tab2Section = Tab2:NewSection("YouTube | FuadnotFounded")
+local Tab2Section = Tab2:NewSection("Credits to take modzz")
+
 
 
 ---Buttons
