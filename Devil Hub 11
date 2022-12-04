@@ -13,8 +13,6 @@ local Tab2Section = Tab2:NewSection("Made By FuadNotFounded")
 local Tab2Section = Tab2:NewSection("Credits to All")
 local Tab2Section = Tab2:NewSection("YouTube | FuadnotFounded")
 local Tab2Section = Tab2:NewSection("Credits to take modzz")
-local Tab4 = Window:NewTab("Showcase")
-local Tab4Section = Tab4:NewSection("FuadNotFounded")
 
 
 ---Buttons
