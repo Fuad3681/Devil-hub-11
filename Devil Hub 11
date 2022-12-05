@@ -610,7 +610,7 @@ for J, H in pairs(g) do
 end
 end)
 
-Tab1Section:NewButton("1x1x1x1 gui","Not fe",function()
+Tab3Section:NewButton("1x1x1x1 gui","Not fe",function()
 -- Gui to Lua
 -- Version: 3.
 -- Instances:
