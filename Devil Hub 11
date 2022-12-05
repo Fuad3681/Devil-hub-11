@@ -1,5 +1,5 @@
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Devil Hub v2","BloodTheme")
+local window = kavoUi.CreateLib("Devil Hub v2","Synapse")
 
 ---Tabs
 local Tab1 = window:NewTab("Games")
@@ -11,9 +11,8 @@ local Tab2Section = Tab2:NewSection("Made By FuadNotFounded")
 local Tab2Section = Tab2:NewSection("Credits to All")
 local Tab2Section = Tab2:NewSection("YouTube | FuadnotFounded")
 local Tab2Section = Tab2:NewSection("Credits to take modzz")
-local Tab4Section = Tab4:NewSection("No one :(")
 local Tab4 = window:NewTab("Showcasers")
-
+Local Tab4Section = Tab4:NewSection("No One now")
 
 
 ---Buttons
