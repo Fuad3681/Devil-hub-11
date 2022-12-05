@@ -4,13 +4,13 @@ local window = kavoUi.CreateLib("Devil Hub v2","Synapse")
 ---Tabs
 local Tab1 = window:NewTab("Games")
 local Tab1Section = Tab1:NewSection("Cool  Games")
-local Tab3 = window:NewTab("Other hubs")
-local Tab3Section = Tab3:NewSection("Others hubs")
-local Tab2 = window:NewTab("Credits")
-local Tab2Section = Tab2:NewSection("Made By FuadNotFounded")
-local Tab2Section = Tab2:NewSection("Credits to All")
-local Tab2Section = Tab2:NewSection("YouTube | FuadnotFounded")
-local Tab2Section = Tab2:NewSection("Credits to take modzz")
+local Tab2 = window:NewTab("Other hubs")
+local Tab2Section = Tab2:NewSection("Others hubs")
+local Tab3 = window:NewTab("Credits")
+local Tab3Section = Tab3:NewSection("Made By FuadNotFounded")
+local Tab3Section = Tab3:NewSection("Credits to All")
+local Tab3Section = Tab3:NewSection("YouTube | FuadnotFounded")
+local Tab3Section = Tab3:NewSection("Credits to take modzz")
 local Tab4 = window:NewTab("Showcased")
 local Tab4 section = Tab4:NewSection("No one :( ")
 
@@ -198,11 +198,11 @@ Tab1Section:NewButton("Longest Answer Wins (No key)","No description",function()
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/UnknownStraz/Longest-Answer-Wins/main/Script"), true))()
 end)
 
-Tab3Section:NewButton("Keyboard gui","No description",function()
+Tab2Section:NewButton("Keyboard gui","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
-Tab3Section:NewButton("Snake fe","No description",function()
+Tab2Section:NewButton("Snake fe","No description",function()
 loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
 end)
 
@@ -210,7 +210,7 @@ Tab1Section:NewButton("Doors But Bad","No description",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0doorsbutbad", true))()
 end)
 
-Tab3Section:NewButton("Fe tall script","No description",function()
+Tab2Section:NewButton("Fe tall script","No description",function()
 --Shit ass script made by failedmite57926
 
 local LocalPlayer = game:GetService("Players").LocalPlayer
@@ -267,7 +267,7 @@ Humanoid:FindFirstChild("HeadScale"):Destroy()
 wait(1)
 end)
 
-Tab3Section:NewButton("Fe Telekenisis","No description",function()
+Tab2Section:NewButton("Fe Telekenisis","No description",function()
 -- Press a block to pick it (ignores anchored blocks) (there is a thing called network ownership so you cannot pick it but works on games sometimes like da hood)
 -- Long Press - Flings a block (power is customizable at line 19)
 -- Unequip  - Releases a block
@@ -610,7 +610,7 @@ for J, H in pairs(g) do
 end
 end)
 
-Tab3Section:NewButton("1x1x1x1 gui","Not fe",function()
+Tab2Section:NewButton("1x1x1x1 gui","Not fe",function()
 -- Gui to Lua
 -- Version: 3.
 -- Instances:
