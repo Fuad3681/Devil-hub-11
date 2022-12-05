@@ -11,7 +11,7 @@ local Tab3Section = Tab3:NewSection("Made By FuadNotFounded")
 local Tab3Section = Tab3:NewSection("Credits to All")
 local Tab3Section = Tab3:NewSection("YouTube | FuadnotFounded")
 local Tab3Section = Tab3:NewSection("Credits to take modzz")
-local Tab4 = window:NewTab("Showcased")
+local Tab4 = window:NewTab("Showcaser's")
 local Tab4 section = Tab4:NewSection("No one :( ")
 
 ---Buttons
