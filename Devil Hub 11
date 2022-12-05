@@ -1,5 +1,5 @@
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Devil Hub beta v1","Synapse")
+local window = kavoUi.CreateLib("Devil Hub v2","BloodTheme")
 
 ---Tabs
 local Tab1 = window:NewTab("Games")
