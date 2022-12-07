@@ -1,4 +1,6 @@
--- init
+Ur a pedophile skid kid 
+
+Inits
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenDeno/Venyx-UI-Library/main/source.lua"))()
 local venyx = library.new("devil hub revamp", 5013109572)
 
@@ -43,4 +45,23 @@ end)
 section1:addButton("Combat Warriors", function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/NEW_NOVA"))()
 end)
+
+section1:addButton("Blox Fruits", function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+section1:addButton("Adopt me", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiYT/Diamond/main/AdoptMe"))()
+end)
+
+section1:addButton("Doors", function()
+        https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
+end)
+
+section1:addButton("Evade", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
+end)
+
+
+
 
