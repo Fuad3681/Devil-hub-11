@@ -59,3 +59,7 @@ end)
 section1:addButton("Evade", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
 end)
+
+section1:addButton("Rainbow Friends", function()
+    https://raw.githubusercontent.com/JNHHGaming/Rainbow-Friends/main/Rainbow%20Friends
+end)
