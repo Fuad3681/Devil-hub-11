@@ -60,3 +60,7 @@ section1:addButton("Evade", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
 end)
 
+section1:addButton("Doors But Bad", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0doorsbutbad", true))()
+end)
+
